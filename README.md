@@ -19,7 +19,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Side stands
 
-**Filament required:** ~356.8g
+- **Filament required:** ~356.8g
+- **[Side stands project files](side-stands)**
 
 <details>
 <summary>3D view</summary>
@@ -30,7 +31,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Shelf mounts
 
-**Filament required:** ~8.5g
+- **Filament required:** ~8.5g
+- **[Shelf mounts project files](shelf-mounts)**
 
 <details>
 <summary>3D view</summary>
@@ -43,7 +45,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Tray
 
-**Filament required:** ~57.4g
+- **Filament required:** ~57.4g
+- **[Tray project files](tray)**
 
 <details>
 <summary>3D view</summary>
@@ -54,7 +57,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Phone stand
 
-**Filament required:** ~17.7g
+- **Filament required:** ~17.7g
+- **[Phone stand project files](phone-stand)**
 
 <details>
 <summary>3D view</summary>
@@ -65,7 +69,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Headphones stand base
 
-**Filament required:** ~9.7g
+- **Filament required:** ~9.7g
+- **[Headphones stand base project files](headphones-stand-base)**
 
 <details>
 <summary>3D view</summary>
@@ -76,7 +81,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Notebooks holder
 
-**Filament required:** ~7.1g
+- **Filament required:** ~7.1g
+- **[Notebooks holder project files](notebook-holder)**
 
 <details>
 <summary>3D view</summary>
@@ -87,7 +93,8 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ### Cables holder
 
-**Filament required:** ~2.4g
+- **Filament required:** ~2.4g
+- **[Cables holder project files](cables-holder)**
 
 <details>
 <summary>3D view</summary>
