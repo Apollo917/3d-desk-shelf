@@ -1,10 +1,10 @@
-# Desk Shelf
+# TDS | Tubed Desk Shelf
 
-A 3D-printable modular and extendable desk shelf system, designed to organize your workspace and expand with
-accessories.
+TDS is a 3D-printable, modular, and extendable desk-shelf system designed to organize your workspace and expand with
+accessories
 
 This project was designed in **Autodesk Fusion** and the repository includes both the **Fusion project files** and
-**.3mf files** preconfigured for the **Bambu Lab P1S** 3D printer.
+**.3mf files** preconfigured for the **Bambu Lab P1S** 3D printer
 
 **Dimensions:**
 
@@ -24,14 +24,14 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 ## Main parts
 
-### Shelf
+### TDS | Tubed Desk Shelf
 
 The primary components of the shelf that act as the base for the five 13.1mm-diameter tubes and their associated
 accessories
 
 <details>
 <summary>Preview</summary>
-<img src="shelf/3d.PNG" alt="Shelf mounts" width="400">
+<img src="tubed-desk-shelf/3d.PNG" alt="Shelf mounts" width="400">
 </details>
 
 - **Filament required:** ~293g
@@ -42,7 +42,7 @@ accessories
       the side stand** - this ensures that the shelf will sit exactly where you want it on your desk
     - Place the side stands onto the installed shelf mounts and slide them away from you (toward the back
       of the desk) until they lock in place
-- **[Shelf project files](shelf)**
+- **[Shelf project files](tubed-desk-shelf)**
 
 ---
 
