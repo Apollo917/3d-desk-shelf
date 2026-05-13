@@ -15,47 +15,34 @@ This project was designed in **Autodesk Fusion** and the repository includes bot
 
 **Required materials:**
 
-- ~460g of PLA filament
-- 4-5 tubes with a 13.1 mm outer diameter
-- 2 M4 40mm screws
-    - The length depends on your desk thickness
-    - Shelf mounts require at least 10 mm of thread engagement to be fully secured
-    - You have up to 10 mm of extra space to “hide” additional screw length
+- ~293g of PLA filament for the base shelf
+- ~445g of PLA filament for the base shelf and accessories
+- 4-5 tubes with a 13.1mm outer diameter
+- 2 x M4 x 40mm screws and 2 x M4 nuts
+    - The screws length depends on your desk thickness
+    - The shelf mounts require at least 10mm of thread engagement to be fully secured
 
 ## Main parts
 
-### Shelf mounts
+### Shelf
 
-Provide stable mounting points for the desk shelf and enable quick and easy installation
+The primary components of the shelf that act as the base for the five 13.1mm-diameter tubes and their associated
+accessories
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/shelf-mounts/3d.PNG" alt="Shelf mounts" width="400">
+<img src="shelf/3d.PNG" alt="Shelf mounts" width="400">
 </details>
 
-- **Filament required:** ~8.5g
+- **Filament required:** ~293g
 - **Installation:**
     - Choose the desired position for your shelf
-    - Drill holes for M4 screws, and secure the mounts with M4 screws
-    - ⚠️ When marking the holes, keep in mind that each screw hole should be positioned **49 mm behind the front edge of
+    - Drill holes for M4 screws, and secure the mounts with M4 screw and nut
+    - ⚠️ When marking the holes, keep in mind that each screw hole should be positioned **~49mm behind the front edge of
       the side stand** - this ensures that the shelf will sit exactly where you want it on your desk
-- **[Shelf mounts project files](shelf-mounts)**
-
----
-
-### Side stands
-
-Serves as the main structural part of the shelf and provides mounting points for the tubes
-
-<details>
-<summary>Preview</summary>
-<img src="_materials/side-stands/3d.PNG" alt="Side stands" width="400">
-</details>
-
-- **Filament required:** ~356.8g
-- **Installation:** Place the side stands onto the installed shelf mounts and slide them away from you (toward the back
-  of the desk) until they lock in place
-- **[Side stands project files](side-stands)**
+    - Place the side stands onto the installed shelf mounts and slide them away from you (toward the back
+      of the desk) until they lock in place
+- **[Shelf project files](shelf)**
 
 ---
 
@@ -68,10 +55,10 @@ you use frequently
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/tray/3d.PNG" alt="Tray" width="400">
+<img src="tray/3d.PNG" alt="Tray" width="400">
 </details>
 
-- **Filament required:** ~57.4g
+- **Filament required:** ~59g
 - **[Tray project files](tray)**
 
 ---
@@ -83,10 +70,10 @@ Provides stable support and integrates seamlessly with the shelf system
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/phone-stand/3d.PNG" alt="Phone stand" width="400">
+<img src="phone-stand/3d.PNG" alt="Phone stand" width="400">
 </details>
 
-- **Filament required:** ~17.7g
+- **Filament required:** ~22g for the pair
 - **[Phone stand project files](phone-stand)**
 
 ---
@@ -98,10 +85,10 @@ It can be mounted between neighboring or more distant tubes
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/notebook-holder/3d.PNG" alt="Notebooks holder" width="400">
+<img src="notebook-holder/3d.PNG" alt="Notebooks holder" width="400">
 </details>
 
-- **Filament required:** ~7.1g
+- **Filament required:** ~14g for the pair
 - **[Notebooks holder project files](notebook-holder)**
 
 ---
@@ -113,10 +100,10 @@ You can also use it to hang small accessories or tools
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/cables-holder/3d.PNG" alt="Cables holder" width="400">
+<img src="cables-holder/3d.PNG" alt="Cables holder" width="400">
 </details>
 
-- **Filament required:** ~2.4g
+- **Filament required:** ~3g
 - **[Cables holder project files](cables-holder)**
 
 ---
@@ -125,15 +112,30 @@ You can also use it to hang small accessories or tools
 
 Brackets that serve as mounting points for the shelf’s tube system.  
 They can also be combined with accessories to provide additional mounting positions or support.  
-One of the bracket variants includes a slot for an 8 mm diameter constant magnet
+One of the bracket variants includes a slot for an 8mm diameter constant magnet
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/tube-brackets/3d.PNG" alt="Tube brackets" width="400">
+<img src="tube-brackets/3d.PNG" alt="Tube brackets" width="400">
 </details>
 
-- **Filament required:** ~1.3g
+- **Filament required:** ~1g
 - **[Tube brackets project files](tube-brackets)**
+
+---
+
+### Headphones stand
+
+A tube-mounted headphone stand. Designed to integrate with the shelf’s tube system, providing a stable and space-saving
+mounting solution for your headphones
+
+<details>
+<summary>Preview</summary>
+<img src="headphones-stand/3d.PNG" alt="Headphones stand" width="400">
+</details>
+
+- **Filament required:** ~45g
+- **[Headphones stand base project files](headphones-stand)**
 
 ---
 
@@ -144,10 +146,10 @@ system, providing a stable and space-saving mounting solution for your headphone
 
 <details>
 <summary>Preview</summary>
-<img src="_materials/headphones-stand-base/3d.PNG" alt="Headphones stand base" width="400">
+<img src="headphones-stand-base/3d.PNG" alt="Headphones stand base" width="400">
 </details>
 
-- **Filament required:** ~9.7g
+- **Filament required:** ~9g
 - **[Headphones stand base project files](headphones-stand-base)**
 
 ---

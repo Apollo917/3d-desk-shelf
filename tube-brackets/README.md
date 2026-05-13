@@ -1,9 +1,8 @@
 ### Tube brackets
 
 Brackets that serve as mounting points for the shelf’s tube system.  
-They can also be combined with accessories to provide additional mounting positions or support.  
-One of the bracket variants includes a slot for an 8 mm diameter constant magnet
+They can also be combined with accessories to provide additional mounting positions or support
 
-**Filament required:** ~1.3g
+**Filament required:** ~1g
 
-<img src="../_materials/tube-brackets/3d.PNG" alt="Tube brackets" width="400">
+<img src="./3d.PNG" alt="Tube brackets" width="400">
