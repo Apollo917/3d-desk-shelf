@@ -3,6 +3,6 @@
 A width-adjustable stand suitable for holding various devices such as phones, tablets, or e-readers.<br>
 Provides stable support and integrates seamlessly with the shelf system
 
-**Filament required:** ~17.7g
+**Filament required:** ~22g for the pair
 
-<img src="../_materials/phone-stand/3d.PNG" alt="Phone stand" width="400">
+<img src="./3d.PNG" alt="Phone stand" width="400">
