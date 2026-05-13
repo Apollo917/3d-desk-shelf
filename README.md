@@ -134,7 +134,7 @@ mounting solution for your headphones
 <img src="headphones-stand/3d.PNG" alt="Headphones stand" width="400">
 </details>
 
-- **Filament required:** ~45g
+- **Filament required:** ~46g
 - **[Headphones stand base project files](headphones-stand)**
 
 ---
