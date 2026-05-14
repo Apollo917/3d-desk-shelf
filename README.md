@@ -2,16 +2,18 @@
 
 # TDS | Tubed Desk Shelf
 
-3D-printable, modular, and extendable desk-shelf system designed to organize your workspace and grow with
-additional accessories. Its primary components form the base for five 13mm-diameter tubes/rods and their compatible
-accessories
-
-<img src="tubed-desk-shelf/materials/preview-1.jpeg" alt="Shelf mounts" width="700">
-
-</div>
+**TDS** is an open-source, 3D-printable modular system designed to organize and elevate your workspace.
+The structure is built around five 13mm-diameter tubes/rods of any material - such as aluminum, wood, or carbon
+fiber. Secure it to your workspace using the dedicated table mounts and expand its functionality with the initial set of
+compatible accessories, or design your own custom additions. I also welcome your ideas and proposals for future
+expansions
 
 **TDS** project was designed in **Autodesk Fusion** and the repository includes both the **Fusion project files** and
 **.3mf files** preconfigured for the **Bambu Lab P1S** 3D printer
+
+<img src="tubed-desk-shelf/materials/preview-1-4-3.jpeg" alt="Shelf mounts" width="700">
+
+</div>
 
 ---
 
@@ -27,12 +29,11 @@ accessories
 
 **Required materials:**
 
-- ~293g of PLA filament for the base shelf
+- ~292g of PLA filament for the base shelf
 - ~445g of PLA filament for the base shelf and accessories
-- 4-5 tubes with a 13mm outer diameter
-- 2 x M4 x 40mm screws and 2 x M4 nuts
+- 5 tubes/rods with a 13mm outer diameter
+- 2 x M4 x 30mm screws
     - The screws length depends on your desk thickness
-    - The shelf mounts require at least 10mm of thread engagement to be fully secured
 
 ## Parts
 
