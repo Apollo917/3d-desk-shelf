@@ -37,6 +37,12 @@ expansions
 - Place the side stands onto the installed shelf mounts and slide them away from you (toward the back
   of the desk) until they lock in place
 
+## Materials
+
+- [Bambu Studio .3mf file](tubed-desk-shelf.3mf)
+- [Fusion .f3d file](tubed-desk-shelf.f3d)
+- [.step file](tubed-desk-shelf.step)
+
 ## Preview
 
 ### 3D
