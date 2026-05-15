@@ -31,7 +31,7 @@ additions. I also welcome your ideas and proposals for future expansions
     - [Phone stand](phone-stand)
     - [Notebooks holder](notebook-holder)
     - [Cables holder](cables-holder)
-    - [Tube brackets](templates)
+    - [Templates](templates)
     - [Headphones stand base](headphones-stand-base)
 
 ## Specs
