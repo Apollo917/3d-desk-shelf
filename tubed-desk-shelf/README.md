@@ -1,18 +1,19 @@
 # TDS | Tubed Desk Shelf
 
-**TDS** is an open-source, 3D-printable modular system designed to organize and elevate your workspace.
-The structure is built around five 13mm-diameter tubes/rods of any material - such as aluminum, wood, or carbon
-fiber. Secure it to your workspace using the dedicated table mounts and expand its functionality with the initial set of
-compatible accessories, or design your own custom additions. I also welcome your ideas and proposals for future
-expansions
+These are the essential TDS parts, forming the basic shelf (TDS) structure from which the entire system is built:
+
+- **Side Supports**: the primary structural frames that hold the rods in place and define the shelf's profile
+- **Table Mounts:** dedicated hardware that allows the side supports to be mounted securely onto the tabletop
+
+Together, these components establish the TDS, ready for further customization and accessories
 
 ## Specs
 
 ### Dimensions
 
 - **Height:** 150mm
-- ⚠️ Keep in mind that some accessories, or certain ways of using them, may require additional vertical space - consider
-  this when positioning the shelf
+    - ⚠️ Keep in mind that some accessories, or certain ways of using them, may require additional vertical space -
+      consider this when positioning the shelf
 - **Distance between tube centers:** 33.1 mm
 - **Distance between tubes:** 20 mm
 
@@ -37,7 +38,7 @@ expansions
 - Place the side stands onto the installed shelf mounts and slide them away from you (toward the back
   of the desk) until they lock in place
 
-## Materials
+## Files
 
 - [Bambu Studio .3mf file](tubed-desk-shelf.3mf)
 - [Fusion .f3d file](tubed-desk-shelf.f3d)

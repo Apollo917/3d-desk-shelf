@@ -24,7 +24,7 @@ pressure
 - **Slim support**
     - ~80g of PLA filament
 
-## Materials
+## Files
 
 - [Bambu Studio .3mf file](intermediate-supports.3mf)
 - [Fusion .f3d file](intermediate-supports.f3d)
