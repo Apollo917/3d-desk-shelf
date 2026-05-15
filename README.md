@@ -18,14 +18,14 @@ expansions
 
 ## Links
 
-- [TDS Maker World Ecosystem](https://makerworld.com/en/collections/26842551-tds-tubed-desk-shelf-ecosystem)
+- [Maker World](https://makerworld.com/en/models/2803112-tds-tubed-desk-shelf#profileId-3118631)
 
 ## Ecosystem
 
 - **Main parts**
     - [Tubed Desk Shelf](tubed-desk-shelf)
-        - [Maker World Model](https://makerworld.com/en/models/2803112-tds-tubed-desk-shelf#profileId-3118631)
 - **Accessories**
+    - [Intermediate Supports](intermediate-supports)
     - [Headphones stand](headphones-stand)
     - [Tray](tray)
     - [Phone stand](phone-stand)
