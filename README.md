@@ -13,6 +13,8 @@ expansions
 
 <img src="tubed-desk-shelf/materials/preview-1-4-3.jpeg" alt="Shelf mounts" width="700">
 
+- [TDS Maker World Ecosystem](https://makerworld.com/en/collections/26842551-tds-tubed-desk-shelf-ecosystem)
+
 </div>
 
 ---
@@ -39,6 +41,7 @@ expansions
 
 - **Main parts**
     - [Tubed Desk Shelf](tubed-desk-shelf)
+        - [Maker World Model](https://makerworld.com/en/models/2803112-tds-tubed-desk-shelf#profileId-3118631)
 - **Accessories**
     - [Headphones stand](headphones-stand)
     - [Tray](tray)
