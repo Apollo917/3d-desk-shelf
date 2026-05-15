@@ -1,11 +1,19 @@
 # Headphones stand base
 
-A tube-mounted replacement for the original headphone stand baseplate. Designed to integrate with the shelf’s tube
-system, providing a stable and space-saving mounting solution for your headphones stand
+A TDS-compatible replacement for the original baseplate, providing a stable, space-saving mounting solution for your
+headphones
 
 ## Specs
 
+### Required materials
+
 **Filament required:** ~9g
+
+## Files
+
+- [Bambu Studio .3mf file](headphones-stand-base.3mf)
+- [Fusion .f3d file](headphones-stand-base.f3d)
+- [.step file](headphones-stand-base.step)
 
 ## Preview
 

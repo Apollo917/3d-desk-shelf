@@ -2,16 +2,16 @@
 
 # TDS | Tubed Desk Shelf
 
-<img src="tubed-desk-shelf/materials/preview-1-4-3.jpeg" alt="Shelf mounts" width="700">
+<img src="_materials/covers/model-4-3.jpeg" alt="Shelf mounts" width="700">
 
 </div>
 <br>
 
 **TDS** is an open-source, 3D-printable modular system designed to organize and elevate your workspace.
-The structure is built around five 13mm-diameter tubes/rods of any material - such as aluminum, wood, or carbon
-fiber. Secure it to your workspace using the dedicated table mounts and expand its functionality with the initial set of
-compatible accessories, or design your own custom additions. I also welcome your ideas and proposals for future
-expansions
+The structure is built around side supports and five 13mm-diameter tubes/rods of any material - such as aluminum, wood,
+or carbon fiber. These core elements form the basic TDS, which you can secure it to your workspace using the dedicated
+table mounts and expand its functionality with the initial set of compatible accessories, or design your own custom
+additions. I also welcome your ideas and proposals for future expansions
 
 **TDS** project was designed in **Autodesk Fusion** and the repository includes both the **Fusion project files** and
 **.3mf files** preconfigured for the **Bambu Lab P1S** 3D printer
@@ -31,7 +31,7 @@ expansions
     - [Phone stand](phone-stand)
     - [Notebooks holder](notebook-holder)
     - [Cables holder](cables-holder)
-    - [Tube brackets](tube-brackets)
+    - [Tube brackets](templates)
     - [Headphones stand base](headphones-stand-base)
 
 ## Specs
@@ -53,3 +53,19 @@ expansions
 - 5 tubes/rods with a 13mm outer diameter
 - 2 x M4 x 30mm screws
     - The screws length depends on your desk thickness
+
+## Preview
+
+<img src="_materials/previews/preview-1.png" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-2.jpeg" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-3.jpeg" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-4.jpeg" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-5.jpeg" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-6.jpeg" alt="Shelf mounts" width="400">
+
+<img src="_materials/previews/preview-7.jpeg" alt="Shelf mounts" width="400">

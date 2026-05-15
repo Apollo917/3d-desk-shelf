@@ -1,3 +1,0 @@
-- Update extensions file names
-- Add materials (files list) for all extensions
-- Correct extensions readme structure corresponding to shelf README
